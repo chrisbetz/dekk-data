@@ -1,0 +1,39 @@
+[
+  {
+    "id": "5589a696d3c37743b3d4aa54",
+    "name": "Was brauchen wir?",
+    "idBoard": "5589a5f8780598f0030bb298",
+    "idCard": "5589a68c4339528dc13fcea6",
+    "pos": 16384,
+    "checkItems": [
+      {
+        "state": "incomplete",
+        "id": "5589a6990ac1f9ceb2a3c055",
+        "name": "Chips",
+        "nameData": null,
+        "pos": 16826
+      },
+      {
+        "state": "incomplete",
+        "id": "5589a69a8b31eec9477838b4",
+        "name": "Bier",
+        "nameData": null,
+        "pos": 33879
+      },
+      {
+        "state": "incomplete",
+        "id": "5589a69d6c951808b3b120af",
+        "name": "Pizza",
+        "nameData": null,
+        "pos": 50736
+      },
+      {
+        "state": "incomplete",
+        "id": "5589a6a2719c29577e1dad61",
+        "name": "Cidre",
+        "nameData": null,
+        "pos": 67242
+      }
+    ]
+  }
+]

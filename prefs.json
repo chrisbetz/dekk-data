@@ -1,0 +1,20 @@
+{
+  "canBeOrg": true,
+  "canBePublic": true,
+  "comments": "members",
+  "invitations": "members",
+  "selfJoin": false,
+  "cardCovers": true,
+  "cardAging": "regular",
+  "calendarFeedEnabled": false,
+  "canBePrivate": true,
+  "canInvite": true,
+  "voting": "disabled",
+  "permissionLevel": "private",
+  "background": "blue",
+  "backgroundColor": "#0079BF",
+  "backgroundImage": null,
+  "backgroundImageScaled": null,
+  "backgroundTile": false,
+  "backgroundBrightness": "unknown"
+}

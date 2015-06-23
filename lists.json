@@ -1,0 +1,18 @@
+[
+  {
+    "id": "5589a61605749e4834a9716a",
+    "name": "In Planning",
+    "closed": false,
+    "idBoard": "5589a5f8780598f0030bb298",
+    "pos": 65535,
+    "subscribed": false
+  },
+  {
+    "id": "5589a6208704850af4c5620a",
+    "name": "In Progress",
+    "closed": false,
+    "idBoard": "5589a5f8780598f0030bb298",
+    "pos": 131071,
+    "subscribed": false
+  }
+]
